@@ -1,0 +1,32 @@
+# Compiled output
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Debug / build folders
+build/
+bin/
+Debug/
+Release/
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CodeBlocks
+*.cbp
+*.layout
+
+a.out
